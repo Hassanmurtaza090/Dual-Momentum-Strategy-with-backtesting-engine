@@ -1,0 +1,7 @@
+.env
+.venv
+__pycache__/
+*.parquet
+data/
+equity_curve.png
+results/
